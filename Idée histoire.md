@@ -18,4 +18,8 @@ Peut-être un bon plan ?
 
 exemple de timeline : 
 - Réveil
-- Mi-session : L'incendie fait s'effondrer une partie du bâtiment
+- Evènements internes à la timeline:
+	- L'incendie fait s'effondrer une partie du bâtiment
+	- Le coupable s'enfuit
+	- L'un des tableaux a brûlé
+	- L'incendie fait s'effondrer tout le bâtiment.
