@@ -25,4 +25,4 @@ exemple de timeline :
 	- L'incendie fait s'effondrer tout le bâtiment.
 
 # Synopsis
-[[Créateur du musée]] a créé une [[Exposition de peintures]] dans un [[Musée]] situé dans une ancienne bâtisse[[Coupable de l'incendie]] souhaite détruire cette exposition car 
+[[Créateur du musée]] a créé une [[Exposition de peintures]] dans un [[Musée]] situé dans une ancienne bâtisse [[Coupable de l'incendie]] souhaite détruire cette exposition car il a volé les tableaux et les a remplacé par des faux, et ça se verrait à l
