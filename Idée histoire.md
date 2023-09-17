@@ -23,3 +23,6 @@ exemple de timeline :
 	- Le coupable s'enfuit
 	- L'un des tableaux a brûlé
 	- L'incendie fait s'effondrer tout le bâtiment.
+
+# Synopsis
+[[Créateur du musée]] a créé une [[Exposition de peintures]] dans un [[Musée]] nouvellement construit. [[Coupable de l'incendie]] souhaite détruire cette exposition car 
