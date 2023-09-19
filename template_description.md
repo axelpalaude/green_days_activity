@@ -1,8 +1,0 @@
-#description
-
-- Visuel : 
-	- 
-- Auditif :
-	- 
-- Olfactif :
-- 
