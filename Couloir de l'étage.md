@@ -6,4 +6,4 @@ aliases:
 Contient : 
 - 
 # Informations
-- Lors de la [[Deuxième phase de l'incendie]] il est impossible d'utiliser le couloir pour aller d'une des portes à l'ascenseur 
+- A partir de la [[Deuxième phase de l'incendie]] il est impossible d'utiliser le couloir pour aller d'une des portes à l'[[Escalier]] et vice et versa. Par contre on peut passer d'une salle à une autre par le couloir.
