@@ -10,5 +10,9 @@ aliases:
 Contient : 
 - 3 chaises
 - Un [[Extincteur automatique à eau]] au plafond.
+- Une lampe au plafond
+- Un interrupteur près de la porte
+- Une [[Armoire électrique et sécurité]] qui prend la forme d'une haute armoire dans un coin de la pièce.
 # Informations
 - La baie vitrée est la seule fenêtre qui permet de voir la route menant vers la ville à l'[[Extérieur]].
+- La lumière est éteinte à l'origine
