@@ -5,4 +5,5 @@
 
 Dans la [[Salle d'exposition 3]] : 
 - Cet oreiller est le mien
-- Cet oreiller est plutôt sale, ça fait longtemps que je ne l'ai pas lavé.
+- Cet oreiller est plutôt sale, ça fait longtemps que je ne l'ai pas lavé
+- Je dormais la tête sur cet oreiller.
