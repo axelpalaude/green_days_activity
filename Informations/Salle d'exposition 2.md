@@ -10,6 +10,8 @@ aliases:
 - Le mur qui sépare la salle de l'[[Escalier]] est fragile et peut être cassé : [[Mur fragile de l'Escalier]].
 - La porte mène au [[Couloir de l'étage]].
 - Un [[Extincteur automatique à eau]] au plafond.
+- Une lampe au plafond
+- Un interrupteur à côté de la porte qui permet d'allumer la lampe au pafond
 
 La salle contient : 
 - Un [[Tableau expressionniste falsifié]] sur le mur à droite en entrant.
@@ -22,3 +24,4 @@ La salle contient :
 - L'[[Extincteur automatique à eau]] ne s'active que si le [[Dispositif anti-incendie]] est réactivé
 - Le [[Mur fragile de l'Escalier]] est le seul moyen d'accéder à l'étage une fois la [[Deuxième phase de l'incendie]] démarrée.
 - Il est possible d'ouvrir la fenêtre mais [[Jeanne]] a trop peur pour sauter, sauf en [[Quatrième phase de l'incendie]].
+- La lumière de la salle est éteinte à l'origine.

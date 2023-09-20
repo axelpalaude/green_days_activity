@@ -20,6 +20,8 @@ La salle contient :
 - Une [[Valise de Jeanne]]
 - Une [[Armoire du livre d'or]]
 - Un portemanteau sur la porte d'entrée où est rangée la [[Veste de Jeanne]]
+- Une lampe au plafond
+- Un interrupteur situé à l'extérieur de 
 
 # Eléments importants
 - [[Créateur du musée]] a déterminé que c'est là que se terminait la visite et a donc décidé d'y installer le livre d'or. Il a rangé le double des [[Clés du musée]] dans l'[[Armoire du livre d'or]].
