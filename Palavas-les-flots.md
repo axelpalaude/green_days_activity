@@ -1,1 +1,1 @@
-Il s'agit de la ville située près du [[Musée]]. C'est également là que dort [[Créateur du musée]] qui dort à l'hôtel, qui peut
+Il s'agit de la ville située près du [[Musée]]. C'est également là que dort [[Créateur du musée]] qui dort à l'hôtel, qui peut venir ouvrir la [[Porte d'entrée]] à [[Jeanne]] si jamais elle l'appelle via son [[Téléphone de Jeanne]].
