@@ -16,7 +16,7 @@ aliases:
 	- Début de session (incendie faible) : 
 		- Vous entendez le bruit du vent  de dehors et des petits craquements par moment.
 	- Milieu-fin : 
-		- Le bruit du vent est
+		- Le bruit du vent est peu audible à cause du fort bruit de crépitement et de flammes.
 - Goût :
 	- x
 - Toucher : 
