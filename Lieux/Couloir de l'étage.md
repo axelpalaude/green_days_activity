@@ -8,5 +8,5 @@ Contient :
 - Un interrupteur près de l'[[Escalier]] et un devant chaque salle.
 - Des lampes accrochées au mur qui peuvent être allumées avec l'un des trois interrupteurs.
 # Informations
-- A partir de la [[Deuxième phase de l'incendie]] il est impossible d'utiliser le couloir pour aller d'une des portes à l'[[Escalier]] et vice et versa. Par contre on peut passer d'une salle à une autre par le couloir.
+- A partir de la [[Incendie|Troisième phase de l'incendie]] il est impossible d'utiliser le couloir pour aller d'une des portes à l'[[Escalier]] et vice et versa. Par contre on peut passer d'une salle à une autre par le couloir.
 - Les lumières sont éteintes au début de la partie.

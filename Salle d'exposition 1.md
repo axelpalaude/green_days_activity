@@ -10,7 +10,7 @@ aliases:
 - Il y a une lampe au plafond et un [[Extincteur automatique à eau]].
 - 
 Contient : 
-- Un matelas gonflable
+- Un matelas gonflable, avec un drap qui semble ne pas avoir été utilisé.
 - 2 [[Tableau expressionniste falsifié]] sur le mur à droite de l'entrée, un de chaque côté de la porte menant à la [[Salle d'accueil]].
 - [[Portrait of a man falsifié]] sur le mur en face de la porte d'entrée
 # Informations
