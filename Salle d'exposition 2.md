@@ -10,4 +10,6 @@ aliases:
 - La porte mène au [[Couloir de l'étage]].
 
 La salle contient : 
-- 
+- Un [[Tableau expressionniste falsifié]] sur le mur à droite en entrant.
+- [[The Scream]] sur le mur à gauche en rentrant (ce tableau est la pièce maîtresse du musée).
+- Une [[Douche]]
