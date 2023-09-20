@@ -26,12 +26,12 @@ exemple de timeline :
 ![[plan.jpg]]
 # Synopsis
 [[Créateur du musée]] a créé une [[Exposition de peintures]] dans un [[Musée]] situé dans une ancienne bâtisse [[Coupable de l'incendie]] souhaite détruire cette exposition car il a volé les tableaux et les a remplacé par des faux, et ça se verrait à l'estimation de [[Expert en tableaux]].
-[[Coupable de l'incendie]], [[Personnage principal]] restent la nuit, dans des matelas gonflable dans des pièces séparées.
+[[Coupable de l'incendie]], [[Jeanne]] restent la nuit, dans des matelas gonflable dans des pièces séparées.
 Il reste cependant un [[The Scream]], mais [[Coupable de l'incendie]] accepte de l'abandonner
 L'incendie est donc déclenché pendant la nuit. [[Coupable de l'incendie]] a déclenché le tout, après avoir déjà dérobé un [[Portrait of a man]], mais il ne savait pas que le musée était fermé à clé.
 Il est donc possible d'obtenir plusieurs succès : 
 - Sauvetage de [[Coupable de l'incendie]]
-- Sauvetage de [[Personnage principal]]
+- Sauvetage de [[Jeanne]]
 - Coupable trouvé
 - Tableau sauvé
 - Connaissance du faux
@@ -43,4 +43,4 @@ PdV [[Coupable de l'incendie]] :
 - Déclenchement de l'incendie
 - Sortie... Ratée car il pensait qu'on pouvait ouvrir de l'intérieur.
 
-Les clés de la sortie sont dans l'armoire de la chambre de [[Personnage principal]].
+Les clés de la sortie sont dans l'armoire de la chambre de [[Jeanne]]
