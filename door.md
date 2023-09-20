@@ -13,4 +13,5 @@ aliases:
 
 A propos de la porte d'entrée du [[Musée]] : 
 - Pour ouvrir la porte d'entrée, [[Créateur du musée]] a utilisé une clé qu'il m'a donné.
-- Il est impossible
+- Je suis entré avec le [[]]
+- La porte devrait pouvoir s'ouvrir de l'intérieur normalement, mais j'ai essayé et ce n'est pas possible tant que la porte est verrouillée. 
