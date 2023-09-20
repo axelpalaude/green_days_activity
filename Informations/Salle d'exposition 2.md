@@ -9,7 +9,7 @@ aliases:
 - Il y a une fenêtre à l'opposée de la porte d'entrée qui donne sur l'[[Extérieur]]
 - Le mur qui sépare la salle de l'[[Escalier]] est fragile et peut être cassé : [[Mur fragile de l'Escalier]].
 - La porte mène au [[Couloir de l'étage]].
-- Un [[Extincteur automatique à eau]]
+- Un [[Extincteur automatique à eau]] au plafond.
 
 La salle contient : 
 - Un [[Tableau expressionniste falsifié]] sur le mur à droite en entrant.
