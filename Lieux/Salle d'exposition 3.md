@@ -14,7 +14,9 @@ aliases:
 		- Vous distinguez des arbres à perte de vue. Vous voyez que vous êtes à l'étage d'un bâtiment. Vous voyez également des flammes lécher les murs extérieurs et certains arbres environnants.
 - Ouïe :
 	- Début de session (incendie faible) : 
-		- Vous entendez le bruit du vent 
+		- Vous entendez le bruit du vent  de dehors et des petits craquements par moment.
+	- Milieu-fin : 
+		- Le bruit du vent est
 - Goût :
 	- x
 - Toucher : 
