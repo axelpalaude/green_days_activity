@@ -2,4 +2,4 @@
 aliases:
   - Tableau de grande valeur
 ---
-T
+Le tableau célèbre de Edvard Munch
