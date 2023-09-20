@@ -7,6 +7,7 @@ aliases:
 Contient : 
 - Un paillasson près de la [[Porte d'entrée]]. 
 - Des lampes sur les murs.
+- Un interrupteur près de l'[[Escalier]] et un interrupteur près de la [[Porte d'entrée]]
 - Des portes permettant d'accéder à la [[Salle d'accueil]] et à la [[Salle d'exposition 1]]
 - Un [[Extincteur automatique à eau]] au plafond.
 # Informations
