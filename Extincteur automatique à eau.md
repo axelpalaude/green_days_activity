@@ -6,4 +6,4 @@ aliases:
 Contient : 
 - 
 # Informations
-[[Créateur du musée]] a activé le [[Dispositif anti-incendie]] mais il a été désactivé par [[Coupable de l'incendie]] 
+[[Créateur du musée]] a activé le [[Dispositif anti-incendie]] mais il a été désactivé par [[Coupable de l'incendie]] .
