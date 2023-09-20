@@ -8,8 +8,9 @@ What's on the plan ? (Switch to FR)
 
 - [x] Décider de l'histoire
 - [x] Créer les différents lieux
-- [ ] Créer les différents objets
-- [ ] Créer les différents personnages
+- [x] Créer les différents objets
+- [x] Créer les différents personnages
+- [ ] Ecrire l'introduction / Tuto du jeu
 - [ ] Créer les souvenirs : 
 	- [ ] De la veille
 	- [ ] De la visite de [[Expert en tableaux]]
