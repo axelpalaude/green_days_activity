@@ -21,8 +21,9 @@ La salle contient :
 - Une [[Armoire du livre d'or]]
 - Un portemanteau sur la porte d'entrée où est rangée la [[Veste de Jeanne]]
 - Une lampe au plafond
-- Un interrupteur situé à l'extérieur de 
+- Un interrupteur situé à côté de la porte qui permet d'allumer la lampe au plafond.
 
 # Eléments importants
 - [[Créateur du musée]] a déterminé que c'est là que se terminait la visite et a donc décidé d'y installer le livre d'or. Il a rangé le double des [[Clés du musée]] dans l'[[Armoire du livre d'or]].
 - [[Jeanne]] dormait dedans au début de la [[Première phase de l'incendie]].
+- La lumière est éteinte à l'origine, ce qui fait qu'il ne faut pas tout décrire lors de l'[[Introduction]].
