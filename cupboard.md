@@ -5,4 +5,5 @@
 - Je range mes bonbons au fond de mon armoire sinon je suis incapable de me retenir et je les mange très vite.
 
 Dans la [[Salle d'exposition 3]] : (small white cupboard)
-- C'est une armoire de rangement dans laquel
+- C'est une armoire de rangement dans laquelle [[Créateur du musée]] compte ranger des affaires comme le livre d'or des visiteurs du musée.
+- Il a rangé un livre bleu et 
