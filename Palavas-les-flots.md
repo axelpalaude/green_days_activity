@@ -1,0 +1,1 @@
+Il s'agit de la ville située près du [[Musée]]. C'est également là que dort [[Créateur du musée]] qui dort à l'hôtel, qui peut
