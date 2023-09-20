@@ -9,4 +9,4 @@ Contient :
 # Informations
 - Il est possible de voir la route quittant le domaine depuis la [[Salle d'accueil]] du [[Musée]]
 - Depuis n'importe quelle autre fenêtre, il n'est possible que de voir les arbres.
-- A partir de la [[Troisième phase de l'incendie]], il est possible de voir des arbres brûler.
+- A partir de la [[Incendie|Troisième phase de l'incendie]]il est possible de voir des arbres brûler.

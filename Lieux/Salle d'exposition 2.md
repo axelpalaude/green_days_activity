@@ -23,5 +23,5 @@ La salle contient :
 - [[The Scream]] est le seul tableau non falsifié ou volé dans le [[Musée]] et peut être sauvé.
 - L'[[Extincteur automatique à eau]] ne s'active que si le [[Dispositif anti-incendie]] est réactivé
 - Le [[Mur fragile de l'Escalier]] est le seul moyen d'accéder à l'étage une fois la [[Deuxième phase de l'incendie]] démarrée.
-- Il est possible d'ouvrir la fenêtre mais [[Jeanne]] a trop peur pour sauter, sauf en [[Quatrième phase de l'incendie]].
+- Il est possible d'ouvrir la fenêtre mais [[Jeanne]] a trop peur pour sauter, sauf en [[Incendie|Quatrième phase de l'incendie]]
 - La lumière de la salle est éteinte à l'origine.

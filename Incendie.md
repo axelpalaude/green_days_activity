@@ -21,6 +21,6 @@ Le feu est désormais sur tous les murs ou presque. Les tableaux sont tombés pa
 ## Troisième phase
 Des morceaux de plafond s'effondrent bloquant des passages du [[Couloir de l'étage]] et du [[Couloir du rez-de-chaussée]]. L'air est plus difficilement respirable.
 ## Quatrième phase
-Il est difficile de respirer et donc de faire des actions complexes comme casser les murs ou se battre. Il est maintenant possible de sauter par la fenêtre, quitte à se casser quelque chose.
+Il est difficile de respirer et donc de faire des actions complexes comme casser les murs ou se battre. Il est maintenant possible de sauter par la fenêtre, quitte à se casser quelque chose. Les craquements qu'on entend fait que le bâtiment menace de s'écrouler.
 ## Cinquième phase
-Plus qu'une phase, c'est le bâtiment 
+Plus qu'une phase, c'est le bâtiment tout entier qui s'effondre. Tout ce qui est resté à l'intérieur est perdu. Cette phase n'arrive pas si le [[Dispositif anti-incendie]] a été réactivé ou si les [[Pompiers]] ont été appelés durant la première ou deuxième phase.
