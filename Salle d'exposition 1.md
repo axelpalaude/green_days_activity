@@ -11,6 +11,7 @@ aliases:
 Contient : 
 - Un matelas gonflable
 - 2 [[Tableau expressionniste falsifié]] sur les murs
+- [[Portrait of a man falsifié]]
 # Informations
 - L'interrupteur permet d'allumer la lumière de la salle, la lumière est éteinte à l'origine.
 - C'est là que [[Coupable de l'incendie]] était censé dormir.
