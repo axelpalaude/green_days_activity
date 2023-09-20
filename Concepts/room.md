@@ -11,4 +11,5 @@ Si [[Salle d'exposition 3]] :
 - Cette salle est la salle où je me suis endormi
 - Cette salle est une salle d'exposition qui accueille des tableaux.
 - Cette salle est la salle où sont situées mes affaires.
+- Cette salle n'est pas dans ma maison
 
