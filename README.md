@@ -6,5 +6,13 @@ Have fun!
 
 What's on the plan ? (Switch to FR)
 
-- [ ] Décider de l'histoire
-- [ ] Créer les diff
+- [x] Décider de l'histoire
+- [x] Créer les différents lieux
+- [ ] Créer les différents objets
+- [ ] Créer les différents personnages
+- [ ] Créer les souvenirs : 
+	- [ ] De la veille
+	- [ ] De la visite de [[Expert en tableaux]]
+	- [ ] Du travail
+	- [ ] De la jeunesse
+	- [ ] Du temps libre et des amis.
