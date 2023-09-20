@@ -17,4 +17,10 @@ Tout d'abord, [[Coupable de l'incendie]] a déclenché le feu. Il a :
 ## Première phase
 Lors de la phase 1, seul le mur de la [[Salle d'accueil]] prend feu, et il se propage au plafond et aux autres murs, par exemple vers le sol de la [[Salle d'exposition 3]]. A part ça, rien n'est touché, ni dangeureux.
 ## Deuxième phase
-Le feu est désormais sur tous les murs ou presque. Les tableaux sont tombés par terre
+Le feu est désormais sur tous les murs ou presque. Les tableaux sont tombés par terre, et il est possible de voir des flammes dans toutes les salles. Le feu se propage au toit
+## Troisième phase
+Des morceaux de plafond s'effondrent bloquant des passages du [[Couloir de l'étage]] et du [[Couloir du rez-de-chaussée]]. L'air est plus difficilement respirable.
+## Quatrième phase
+Il est difficile de respirer et donc de faire des actions complexes comme casser les murs ou se battre. Il est maintenant possible de sauter par la fenêtre, quitte à se casser quelque chose.
+## Cinquième phase
+Plus qu'une phase, c'est le bâtiment 
