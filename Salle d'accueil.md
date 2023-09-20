@@ -11,4 +11,4 @@ Contient :
 - 3 chaises
 - Un [[Dispositif anti-incendie]]
 # Informations
-- 
+- La baie vitrée est la seule fenêtre qui permet de voir la route menant vers la ville à l'[[Extérieur]].
