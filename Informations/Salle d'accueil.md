@@ -9,6 +9,6 @@ aliases:
 - Il y a une grande baie vitrée qui donne sur l'[[Extérieur]] sur le mur à droite de l'entrée.
 Contient : 
 - 3 chaises
-- Un [[Dispositif anti-incendie]]
+- Un [[Extincteur automatique à eau]]
 # Informations
 - La baie vitrée est la seule fenêtre qui permet de voir la route menant vers la ville à l'[[Extérieur]].
