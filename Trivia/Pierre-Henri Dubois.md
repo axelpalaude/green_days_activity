@@ -9,4 +9,4 @@ Le créateur de l'[[Exposition de peintures]] et le propriétaire du [[Musée]].
 
 Il a passé un accord avec [[Expert en tableaux]] pour qu'il s'assure tout de même de la véracité des tableaux.
 
-C'est le père de [[Jeanne]].
+C'est le père de [[Jeanne]] et il apprécie [[Coupable de l'incendie]] qui lui donne un coup de main de temps en temps.
