@@ -13,4 +13,8 @@ Tout d'abord, [[Coupable de l'incendie]] a déclenché le feu. Il a :
 - Remplacé le [[Portrait of a man]] avec le [[Portrait of a man falsifié]]
 - Lancé le feu dans la [[Salle d'accueil]] en versant un peu d'huile et en allumant le feu avec un [[Briquet]].
 
-# Première phase de l'incendie
+# Phases de l'incendie
+## Première phase
+Lors de la phase 1, seul le mur de la [[Salle d'accueil]] prend feu, et il se propage au plafond et aux autres murs, par exemple vers le sol de la [[Salle d'exposition 3]]. A part ça, rien n'est touché, ni dangeureux.
+## Deuxième phase
+Le feu est désormais sur tous les murs ou presque. Les tableaux sont tombés par terre
