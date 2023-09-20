@@ -16,6 +16,8 @@ La salle contient :
 - Un matelas gonflable avec un drap et un oreiller
 - Une [[Valise de Jeanne]]
 - Une [[Armoire du livre d'or]]
+- Un portemanteau
 
 # Eléments importants
-- [[Créateur du musée]]
+- [[Créateur du musée]] a déterminé que c'est là que se terminait la visite et a donc décidé d'y installer le livre d'or. Il a rangé le double des [[Clés du musée]] dans l'[[Armoire du livre d'or]].
+- [[Jeanne]] dormait dedans au début de la [[Première phase de l'incendie]].
