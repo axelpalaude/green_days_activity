@@ -1,12 +1,8 @@
-#description
-
-- Vue : 
-	- 
-- Ouïe :
-	- 
-- Goût :
-	- 
-- Toucher : 
-	- 
-- Odorat : 
-	- 
+---
+aliases:
+---
+# Description
+- 
+Contient : 
+- 
+# Informations
