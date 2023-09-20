@@ -4,7 +4,7 @@ aliases:
 # Description
 - Une clé qui permet d'ouvrir la [[Porte d'entrée]].
 - Il en existe deux: 
-	- [[Créateur du musée]] en a une sur lui.
+	- [[Pierre-Henri Dubois]] en a une sur lui.
 	- Il y en a une dans le [[Livre bleu]] dans l'[[Armoire du livre d'or]].
 Contient : 
 - 
