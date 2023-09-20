@@ -15,12 +15,12 @@ aliases:
 
 La salle contient : 
 - Un [[Tableau expressionniste falsifié]] sur le mur à droite en entrant.
-- [[The Scream]] sur le mur à gauche en rentrant (ce tableau est la pièce maîtresse du musée).
+- [[Le Cri]] sur le mur à gauche en rentrant (ce tableau est la pièce maîtresse du musée).
 - Un [[Extincteur automatique à eau]] au plafond.
 
 # Eléments importants
-- [[Créateur du musée]] considère que [[The Scream]] est le tableau le plus important de l'exposition et cette salle est donc la salle maîtresse.
-- [[The Scream]] est le seul tableau non falsifié ou volé dans le [[Musée]] et peut être sauvé.
+- [[Créateur du musée]] considère que [[Le Cri]] est le tableau le plus important de l'exposition et cette salle est donc la salle maîtresse.
+- [[Le Cri]] est le seul tableau non falsifié ou volé dans le [[Musée]] et peut être sauvé.
 - L'[[Extincteur automatique à eau]] ne s'active que si le [[Dispositif anti-incendie]] est réactivé
 - Le [[Mur fragile de l'Escalier]] est le seul moyen d'accéder à l'étage une fois la [[Incendie|Troisième phase de l'incendie]] démarrée.
 - Il est possible d'ouvrir la fenêtre mais [[Jeanne]] a trop peur pour sauter, sauf en [[Incendie|Quatrième phase de l'incendie]]
