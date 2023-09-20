@@ -6,4 +6,4 @@
 
 Dans la [[Salle d'exposition 3]] : (small white cupboard)
 - C'est une armoire de rangement dans laquelle [[Créateur du musée]] compte ranger des affaires comme le livre d'or des visiteurs du musée.
-- Il a rangé un livre bleu et 
+- Il a rangé un livre bleu et une pochette de lunettes à l'intérieur avant de partir et me laisser dormir dans la salle.
