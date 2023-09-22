@@ -1,2 +1,3 @@
 #souvenirs
-- Le chemin en voiture était beaucoup trop long à ton goût, même si depuis l'hôtel les aiguilles de la montre de [[Pierre-Henri Dubois]] n'avaient pas beaucoup bougé. L'odeur de la cigarette fumée par [[Pierre-Henri Dubois]] empestait toute la voiture, et le bruit des arbres caressés par le vent 
+- Le chemin en voiture est beaucoup trop long à ton goût, même si depuis l'hôtel les aiguilles de la montre de ton père n'ont pas beaucoup bougé. L'odeur de la cigarette fumée par [[Pierre-Henri Dubois]] empeste toute la voiture, et le bruit des arbres caressés par le vent est peu audible à cause du vrombissement du moteur de la voiture de ton père, une vieille twingo bleue.
+- Le vent frais te caresse le visage lorsque tu 
