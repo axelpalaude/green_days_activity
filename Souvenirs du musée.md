@@ -1,4 +1,6 @@
 #souvenirs
 - Le chemin en voiture est beaucoup trop long à ton goût, même si depuis l'hôtel les aiguilles de la montre de ton père n'ont pas beaucoup bougé. L'odeur de la cigarette fumée par [[Pierre-Henri Dubois]] empeste toute la voiture, et le bruit des arbres caressés par le vent est peu audible à cause du vrombissement du moteur de la voiture de ton père, une vieille twingo bleue.
+- Tu écoutes, distraite, une conversation entre [[Pierre-Henri Dubois]] qui conduit, et [[Coupable de l'incendie]] qui 
 - Le vent frais te caresse le visage lorsque tu ouvres la portière de la twingo bleue. L'odeur des pins est similaire à celle du jardin de ta grand-mère. Tu poses le pied sur le sol, et tu sens les petits cailloux de ce chemin de gravier. Tu es devant une grande maison.
-- En fermant la portière de la twingo bleue, tu entends le bruit de ta portière qui claque, puis un deuxième bruit similaire. Ton père [[Pierre-Henri Dubois]] a fermé la portière du côté conducteur. Un troisième bruit se fait entendre
+- En fermant la portière de la twingo bleue, tu entends le bruit de ta portière qui claque, puis un deuxième bruit similaire. Ton père [[Pierre-Henri Dubois]] a fermé la portière du côté conducteur. Un troisième bruit se fait entendre, il s'agit cette fois de la portière arrière droite. Ton ami [[Coupable de l'incendie]] a claqué lui aussi sa portière. Vous vous dirigez tous les trois vers le grand bâtiment.
+- 
