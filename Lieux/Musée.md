@@ -14,5 +14,5 @@ aliases:
 - Le musée est fermé à clé pendant la nuit et il n'est possible d'entrer ou de sortir qu'avec les [[Clés du musée]].
 - Deux personnes dorment dans le musée cette nuit après avoir aidé à installer les tableaux : 
 	- [[Jeanne]] dans la [[Salle d'exposition 3]]
-	- [[Coupable de l'incendie]] dans la [[Salle d'exposition 1]].
+	- [[Jules]] dans la [[Salle d'exposition 1]].
 	- Le musée dispose d'un [[Dispositif anti-incendie]].

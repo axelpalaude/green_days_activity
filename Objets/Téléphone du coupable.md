@@ -1,2 +1,2 @@
-Dans la poche de [[Coupable de l'incendie]].
-Peut être utilisé pour appeler les [[Pompiers]] ou demander à [[Coupable de l'incendie]] d'appeler les pompiers, mais [[Coupable de l'incendie]], qui l'a sur lui, refuse de l'utiliser pour autre chose et il faut donc lui prendre de force.
+Dans la poche de [[Jules]].
+Peut être utilisé pour appeler les [[Pompiers]] ou demander à [[Jules]] d'appeler les pompiers, mais [[Jules]], qui l'a sur lui, refuse de l'utiliser pour autre chose et il faut donc lui prendre de force.

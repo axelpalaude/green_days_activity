@@ -15,5 +15,5 @@ Contient :
 - [[Portrait of a man falsifié]] sur le mur en face de la porte d'entrée
 # Informations
 - L'interrupteur permet d'allumer la lumière de la salle, la lumière est éteinte à l'origine.
-- C'est là que [[Coupable de l'incendie]] était censé dormir.
-- Si le [[Coupable de l'incendie]] rentre en même temps que le personnage et que ceux-ci ne s'intéressent pas tout de suite au [[Briquet]] alors celui-ci disparaît.
+- C'est là que [[Jules]] était censé dormir.
+- Si le [[Jules]] rentre en même temps que le personnage et que ceux-ci ne s'intéressent pas tout de suite au [[Briquet]] alors celui-ci disparaît.

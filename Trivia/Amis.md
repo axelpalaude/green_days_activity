@@ -1,5 +1,5 @@
 Liste des amis de [[Jeanne]] : 
-- [[Coupable de l'incendie]] 
+- [[Jules]] 
 - ?
 - ?
 - ?

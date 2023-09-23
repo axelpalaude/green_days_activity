@@ -6,4 +6,4 @@ aliases:
 Contient : 
 - 
 # Informations
-[[Pierre-Henri Dubois]] a activé le [[Dispositif anti-incendie]] mais il a été désactivé par [[Coupable de l'incendie]] .
+[[Pierre-Henri Dubois]] a activé le [[Dispositif anti-incendie]] mais il a été désactivé par [[Jules]] .

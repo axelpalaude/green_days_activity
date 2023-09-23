@@ -15,4 +15,4 @@ A partir de la [[Incendie|Troisième phase de l'incendie]] le couloir est coupé
 - L'[[Escalier]] et la [[Salle d'exposition 1]]
 - La [[Porte d'entrée]] et la [[Salle d'accueil]]
 Heureusement, il est possible de passer de la [[Salle d'accueil]] à la [[Salle d'exposition 1]].
-- Les lumières sont allumées au début (elles ont été allumées par [[Coupable de l'incendie]])
+- Les lumières sont allumées au début (elles ont été allumées par [[Jules]])

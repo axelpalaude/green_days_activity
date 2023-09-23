@@ -1,0 +1,11 @@
+*Des souvenirs pas forcément utiles. Il est de bon ton de montrer cependant au moins une fois [[Jules]] et ses problèmes d'argent*
+- g
+- f
+- t
+- t
+- t
+- t
+- t
+- t
+- t
+- t
