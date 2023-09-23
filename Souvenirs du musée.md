@@ -13,4 +13,4 @@
 - Tu avances dans le couloir en suivant ton père, tandis qu'une troisième personne vous rejoint, visiblement un peu essoufflée d'avoir monté les escaliers en colimaçon après toi. Il vous rejoint au moment où ton père ouvre la première porte à droite et entre dedans.
 - Quand tu rentres dans cette salle, [[Pierre-Henri Dubois]] a le visage qui s'illumine et dit "Voici la [[Salle d'exposition 2|Salle principale]] où réside ma pièce maîtresse! J'ai réussi à avoir l'une des 5 copies de [[Le Cri]] de Munch! Regarde, ma chérie!"
 - Tu regardes ce grand tableau qu'est [[Le Cri]] dans la [[Salle d'exposition 2|Salle principale]]. Tu l'avais déjà vu sur internet, mais ça fait bizarre de le voir en vrai. [[Coupable de l'incendie]] est à côté, il regarde le tableau avec un air triste. Le tableau a dû grandement l'affecter.
-- 
+- Vous quittez la [[Salle d'exposition 2|Salle principale]] par la seule porte et tournez à droite dans le couloir, jusqu'à arriver 
