@@ -14,6 +14,6 @@ What's on the plan ? (Switch to FR)
 - [x] Créer les souvenirs : 
 	- [x] De la veille - [[Souvenirs du musée]]
 	- [x] De la visite de [[Marie]] - [[Souvenirs de l'expertise]]
-	- [x] Du travail - [[Souvenirs du travail]]
-	- [x] De la jeunesse - [[Souvenirs de la jeunesse]]
-	- [x] Du temps libre et des amis. - [[Souvenirs du temps libre]]
+	- [x] Du travail - [[Souvenirs du travail]]  - Peut être étoffé
+	- [x] De la jeunesse - [[Souvenirs de la jeunesse]]  - Peut être étoffé
+	- [x] Du temps libre et des amis. - [[Souvenirs du temps libre]]  - Peut être étoffé
