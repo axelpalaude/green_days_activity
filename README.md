@@ -13,7 +13,7 @@ What's on the plan ? (Switch to FR)
 - [ ] Ecrire l'introduction / Tuto du jeu
 - [ ] Créer les souvenirs : 
 	- [x] De la veille - [[Souvenirs du musée]]
-	- [ ] De la visite de [[Expert en tableaux]] - [[Souvenirs de l'expertise]]
+	- [ ] De la visite de [[Marie]] - [[Souvenirs de l'expertise]]
 	- [ ] Du travail - [[Souvenirs du travail]]
 	- [ ] De la jeunesse - [[Souvenirs de la jeunesse]]
 	- [ ] Du temps libre et des amis. - [[Souvenirs du temps libre]]

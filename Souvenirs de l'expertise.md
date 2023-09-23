@@ -1,7 +1,9 @@
 #souvenirs 
 
-- Tu sors d'une twingo bleue. Tu es dans une ville, devant une petite maison pavillonaire. Ton père sors du côté conducteur. Tu claques la portière, ce qui génère un petit bruit sourd, et tu entends un deuxième bruit similaire quand ton père fait de même.
+- Tu sors d'une twingo bleue. Tu es dans une ville, devant une petite maison pavillonnaire. Ton père sors du côté conducteur. Tu claques la portière, ce qui génère un petit bruit sourd, et tu entends un deuxième bruit similaire quand ton père fait de même.
 - La porte du pavillon s'ouvre, et tu vois une vieille dame avec des lunettes et une tenue débraillée se mettre devant la porte. Elle vous fait un signe de la main en faisant un sourire.
-- "[[Expert en tableaux]], je te présente ma fille [[Jeanne]]" dit ton père alors qu'il s'approche de l'entrée de la petite maison où se situe une vieille dame, qui répond en souriant : "Alors comme ça [[Pierre-Henri Dubois]] tu nous as ramené une enfant ! J'espère qu'elle ne va pas trop s'ennuyer!", ce à quoi tu réponds par un sourire et un hochement négatif de la tête.
+- "[[Marie]], je te présente ma fille [[Jeanne]]" dit ton père alors qu'il s'approche de l'entrée de la petite maison où se situe une vieille dame, qui répond en souriant : "Alors comme ça [[Pierre-Henri Dubois]] tu nous as ramené une enfant ! J'espère qu'elle ne va pas trop s'ennuyer!", ce à quoi tu réponds par un sourire et un hochement négatif de la tête.
 - Tu es assise sur un vieux canapé et devant toi, tu as une tasse de thé vert en main. L'odeur te plaît beaucoup, et tu n'écoutes pas la conversation entre la vieille dame et ton père. Tu entends vaguement qu'elle est spécialiste et qu'elle sait reconnaître les vrais tableaux des faux. Apparemment, elle va venir expertiser la galerie du [[Musée]] de ton père le lendemain.
-- 
+- "Et toi, tu es intéressée par l'expressionisme ?" te demande une vieille dame alors que tu es assise sur son sofa avec une tasse de thé vert en main. Tu bredouilles un "oui" de politesse et tu vois son visage s'illuminer.
+- La grand-mère t'explique s'appeler [[Marie]] et être une spécialiste en tableaux expressionnistes. On fait appel à elle pour déterminer si des peintures sont vraies ou fausses, et c'est pour ça que vous êtes là aujourd'hui.
+- [[Marie]] t'explique qu'une des premières choses à faire pour vérifier l'authenticité des tableaux, c'est de vérifier son odeur. 
