@@ -12,7 +12,7 @@ What's on the plan ? (Switch to FR)
 - [x] Créer les différents personnages
 - [ ] Ecrire l'introduction / Tuto du jeu
 - [ ] Créer les souvenirs : 
-	- [ ] De la veille - [[Souvenirs du musée]]
+	- [x] De la veille - [[Souvenirs du musée]]
 	- [ ] De la visite de [[Expert en tableaux]] - [[Souvenirs de l'expertise]]
 	- [ ] Du travail - [[Souvenirs du travail]]
 	- [ ] De la jeunesse - [[Souvenirs de la jeunesse]]

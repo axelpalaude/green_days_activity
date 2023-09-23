@@ -21,4 +21,7 @@
 - Tu rentres dans le [[Musée]] et tu vois [[Coupable de l'incendie]] te quitter dans la deuxième salle du [[Rez-de-chaussée]]. Il a apparemment choisi cette salle pour installer son matelas gonflable. Toi, tu préfères l'étage et donc tu montes l'[[Escalier]] en colimaçon.
 - Tu entres dans la salle du livre d'or et tu commences à gonfler ton matelas. C'est long, un peu fatiguant, mais tu finis par y arriver. Au moment où tu rebouches le matelas pour retenir l'air, ton père entre dans la pièce.
 - Ton père t'indique que cette petite armoire blanche est là qu'il range son [[Livre bleu]] qu'il veut utiliser en guise de livre d'or à l'issue des visites du [[Musée]].
-- 
+- Tu vois ton père déposer une clé dans la couverture d'un [[Livre bleu]].
+- Ton père t'indique qu'il va fermer le musée en partant et que ton ami et toi allez être enfermés. Tu acquiesce en terminant d'installer tes draps. 
+- Ton père ouvre une armoire blanche et range un [[Livre bleu]] à l'intérieur.
+- Tu embrasses ton père sur la joue et celui-ci ferme la porte, tandis que tu t'installes sur ton matelas gonflable et que tu fermes doucement les yeux.
