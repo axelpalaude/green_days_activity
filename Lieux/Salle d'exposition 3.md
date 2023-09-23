@@ -26,4 +26,4 @@ La salle contient :
 # Eléments importants
 - [[Pierre-Henri Dubois]] a déterminé que c'est là que se terminait la visite et a donc décidé d'y installer le livre d'or. Il a rangé le double des [[Clés du musée]] dans l'[[Armoire du livre d'or]].
 - [[Jeanne]] dormait dedans au début de la [[Incendie|Première phase de l'incendie]].
-- La lumière est éteinte à l'origine, ce qui fait qu'il ne faut pas tout décrire lors de l'[[Introduction]].
+- La lumière est éteinte à l'origine, ce qui fait qu'il ne faut pas tout décrire lors de l'[[Règles]].

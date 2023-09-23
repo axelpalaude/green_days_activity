@@ -10,10 +10,10 @@ What's on the plan ? (Switch to FR)
 - [x] Créer les différents lieux
 - [x] Créer les différents objets
 - [x] Créer les différents personnages
-- [ ] Ecrire l'introduction / Tuto du jeu
-- [ ] Créer les souvenirs : 
+- [ ] Ecrire l'introduction / Tuto du jeu - [[Règles]]
+- [x] Créer les souvenirs : 
 	- [x] De la veille - [[Souvenirs du musée]]
 	- [x] De la visite de [[Marie]] - [[Souvenirs de l'expertise]]
-	- [ ] Du travail - [[Souvenirs du travail]]
-	- [ ] De la jeunesse - [[Souvenirs de la jeunesse]]
-	- [ ] Du temps libre et des amis. - [[Souvenirs du temps libre]]
+	- [x] Du travail - [[Souvenirs du travail]]
+	- [x] De la jeunesse - [[Souvenirs de la jeunesse]]
+	- [x] Du temps libre et des amis. - [[Souvenirs du temps libre]]
